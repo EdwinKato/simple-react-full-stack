@@ -1,4 +1,15 @@
+# OSX
+#
+.DS_Store
+
+# VSCode
+#
 .vscode
-node_modules
+
+# node.js
+#
+node_modules/
+
 dist
 *.log
+.idea
